@@ -1,2 +1,2 @@
-# web-dev-collections
-my collections for web development
+# Practicing JavaScript
+Part of my daily practice for learning JavaScript
